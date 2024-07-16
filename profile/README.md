@@ -7,3 +7,5 @@ The web application consists of 6 repositories in total:
 + [comment-service](https://github.com/NT114-DevOps/comment-service): Comments management microservice
 + [api-gateway](https://github.com/NT114-DevOps/api-gateway): API Gateway for the app
 + [infrastructure](https://github.com/NT114-DevOps/infrastructures): Contains configuration files for Terraform and ArgoCD, along with Kubernetes manifests.
+
+Full Demo: [Youtube](https://youtu.be/EfQvWhesnlQ)
